@@ -76,9 +76,7 @@ Foco em:
 ## 📫 Contato
 
 - GitHub: github.com/gustavo-martim-oliveira
-- (adicione LinkedIn se quiser)
-- (adicione e-mail profissional se quiser)
-
+- Linkedin: https://www.linkedin.com/in/gustavo-martim-oliveira/
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
