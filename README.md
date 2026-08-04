@@ -1,95 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Gustavo%20Martim&fontColor=FFF&color=00bfbf&height=250&section=header&fontAlignY=35"/>
+┌─────────────────────────────────────────────┐
+│ Gustavo Martim                              │
+│ Backend Engineer                            │
+└─────────────────────────────────────────────┘
 
-# 👨‍💻 Gustavo Martim
+STATUS
 
-> Full Stack Developer (PHP / Laravel) focused on scalable architectures, distributed systems and high-performance backend solutions.
+🟢 Building Talora
 
----
+🟢 ATS Resume Builder
 
-## ⚡ Tech Stack
+🟢 Open Source
 
-### Backend & Architecture
-```txt
-Laravel • PHP • REST APIs • SQL Server • MySQL
-Redis • RabbitMQ • Event-Driven Architecture
-MVC • Service Layer • Domain Thinking
-```
+──────────────────────────────
 
-### Frontend
-```txt
-Vue.js • JavaScript (ES6+) • Bootstrap • HTML5 • CSS3
-```
+STACK
 
-### DevOps & Tools
-```txt
-Docker • Linux • Git • GitHub • VS Code
-```
+Laravel
 
----
+PHP
 
-## 🚀 What I Build
+Redis
 
-- ERP systems with modular architecture
-- Distributed systems using message queues (RabbitMQ)
-- RESTful APIs with clean architecture principles
-- Multi-tenant and multi-database applications
-- Admin dashboards (Filament)
-- Authentication & ACL permission systems
-- Bot ↔ Backend integrations via async events
+RabbitMQ
 
----
+Docker
 
-## 🧠 Engineering Mindset
+Next.js
 
-> “A system is only valuable if it can evolve without breaking.”
+──────────────────────────────
 
-I focus on:
+CURRENT GOALS
 
-- Scalable and maintainable architectures
-- Decoupled services and responsibilities
-- Event-driven communication between systems
-- Performance and reliability under load
-- Long-term system evolution instead of quick fixes
+AI
 
----
+DDD
 
-## 📦 Current Focus
+AWS
 
-### 🏢 ERP Platform (Laravel)
-- Project management with Kanban flow
-- Financial module per client/project
-- Invoice (NFe) integration
-- Client portal with restricted access
-- ACL-based permission system
-
----
-
-### 📨 Event-Driven Architecture (RabbitMQ)
-- Async processing pipelines
-- Bot ↔ backend communication layer
-- Consumer-based processing system
-- Preparation for microservices transition
-
----
-
-### 📊 ATS System (Recruitment Platform)
-- Dynamic lead pipeline
-- Custom fields per workflow
-- Flexible API-driven structure
-- Data processing via events
-
----
-
-## 🧭 Philosophy
-
-- Build systems that survive growth
-- Prefer architecture over shortcuts
-- Optimize for maintainability, not just delivery
-- Think in systems, not isolated features
-- Always leave space for evolution
-
----
-
-## 📫 Contact
-
-- Linkedin: [https://github.com/gustavo-martim-oliveira](https://www.linkedin.com/in/gustavo-martim-oliveira/)
+Observability
