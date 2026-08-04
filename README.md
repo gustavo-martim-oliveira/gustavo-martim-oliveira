@@ -235,15 +235,11 @@ Advanced Software Architecture
 
 ---
 
-# GitHub Stats
+# GitHub Activity
 
-<div align="center">
+My public repositories reflect part of my work with backend architecture, APIs, integrations and Open Source products.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-martim-oliveira&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-martim-oliveira&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+Some projects are maintained privately while they are under active development.
 
 ---
 
